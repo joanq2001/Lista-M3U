@@ -8,6 +8,8 @@ https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqhQNvGNz4uVEjPC-tW
 https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqhQNvGNz4uVEjPC-tWV9XvM)/dm/3/x7u0ryc/s/live-2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",AMERICA 24 HD
 http://disfruta.net:80/live/user23/user23/340.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/Jre2RN9gCfzXD3eNc6tjfO5jg0FZZmZkw7twgx8aq9_dBrx9-MyYYoNXg5mnYktighkwE_4dHZ6WtyxG6gA49ajhu-9TuYzCLV3zts4KfbVdKSdL0-3UpSh0BbR65C3-h-W6ng" ,Canal Ecuavisa iN
+https://youvideostreaming.club/hls/tvec2.m3u8
 #EXTINF:0 tvg-id="America2.ar" group-title="Channels",AMERICA TV HD
 http://disfruta.net:80/live/user23/user23/341.m3u8
 #EXTINF:0 tvg-id="C5N.ar" group-title="Channels",C5N HD
