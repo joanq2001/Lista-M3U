@@ -1,242 +1,103 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/Jre2RN9gCfzXD3eNc6tjfO5jg0FZZmZkw7twgx8aq9_dBrx9-MyYYoNXg5mnYktighkwE_4dHZ6WtyxG6gA49ajhu-9TuYzCLV3zts4KfbVdKSdL0-3UpSh0BbR65C3-h-W6ng" ,Canal Ecuavisa 1080p (HD)
-https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqhQNvGNz4uVEjPC-tWV9XvM)/dm/3/x7u0ryc/s/live-4.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/Jre2RN9gCfzXD3eNc6tjfO5jg0FZZmZkw7twgx8aq9_dBrx9-MyYYoNXg5mnYktighkwE_4dHZ6WtyxG6gA49ajhu-9TuYzCLV3zts4KfbVdKSdL0-3UpSh0BbR65C3-h-W6ng" ,Canal Ecuavisa 720p (HD)
-https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqhQNvGNz4uVEjPC-tWV9XvM)/dm/3/x7u0ryc/s/live-3.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/Jre2RN9gCfzXD3eNc6tjfO5jg0FZZmZkw7twgx8aq9_dBrx9-MyYYoNXg5mnYktighkwE_4dHZ6WtyxG6gA49ajhu-9TuYzCLV3zts4KfbVdKSdL0-3UpSh0BbR65C3-h-W6ng" ,Canal Ecuavisa
-https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqhQNvGNz4uVEjPC-tWV9XvM)/dm/3/x7u0ryc/s/live-2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AMERICA 24 HD
-http://disfruta.net:80/live/user23/user23/340.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/Jre2RN9gCfzXD3eNc6tjfO5jg0FZZmZkw7twgx8aq9_dBrx9-MyYYoNXg5mnYktighkwE_4dHZ6WtyxG6gA49ajhu-9TuYzCLV3zts4KfbVdKSdL0-3UpSh0BbR65C3-h-W6ng" ,Canal Ecuavisa iN
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Ecuavisa_2019.png/revision/latest/scale-to-width-down/340?cb=20190818222023&path-prefix=es" ,Ecuavisa
 https://youvideostreaming.club/hls/tvec2.m3u8
-#EXTINF:0 tvg-id="America2.ar" group-title="Channels",AMERICA TV HD
-http://disfruta.net:80/live/user23/user23/341.m3u8
-#EXTINF:0 tvg-id="C5N.ar" group-title="Channels",C5N HD
-http://disfruta.net:80/live/user23/user23/344.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 21 HD
-http://disfruta.net:80/live/user23/user23/345.m3u8
-#EXTINF:0 tvg-id="26TV.ar" group-title="Channels",CANAL 26 HD
-http://disfruta.net:80/live/user23/user23/347.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DE LA CIUDAD HD
-http://disfruta.net:80/live/user23/user23/348.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DE LA MUSICA HD
-http://disfruta.net:80/live/user23/user23/349.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE AR HD
-http://disfruta.net:80/live/user23/user23/350.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CIUDAD MAGAZINE HD
-http://disfruta.net:80/live/user23/user23/351.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CN23 HD
-http://disfruta.net:80/live/user23/user23/352.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONEXION HD
-http://disfruta.net:80/live/user23/user23/353.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONSTRUIR HD
-http://disfruta.net:80/live/user23/user23/354.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CRONICA HD
-http://disfruta.net:80/live/user23/user23/355.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DEPORTV HD
-http://disfruta.net:80/live/user23/user23/356.m3u8
-#EXTINF:0 tvg-id="ElNueveHD.ar" group-title="Channels",EL NUEVE HD
-http://disfruta.net:80/live/user23/user23/358.m3u8
-#EXTINF:0 tvg-id="Azteca13.mx" group-title="Channels",EL TRECE HD
-http://disfruta.net:80/live/user23/user23/360.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ENCUENTRO HD
-http://disfruta.net:80/live/user23/user23/361.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GARAGE HD
-http://disfruta.net:80/live/user23/user23/362.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLITZ HD
-http://disfruta.net:80/live/user23/user23/363.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LN HD
-http://disfruta.net:80/live/user23/user23/364.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LN MAS HD
-http://disfruta.net:80/live/user23/user23/365.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",METRO HD
-http://disfruta.net:80/live/user23/user23/366.m3u8
-#EXTINF:0 tvg-id="MuchMusicHD.ca" group-title="Channels",MUCH MUSIC HD
-http://disfruta.net:80/live/user23/user23/367.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC TOP HD
-http://disfruta.net:80/live/user23/user23/368.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PAKA PAKA HD
-http://disfruta.net:80/live/user23/user23/369.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",QUIERO MUSICA HD
-http://disfruta.net:80/live/user23/user23/370.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RURAL HD
-http://disfruta.net:80/live/user23/user23/371.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SENADO HD
-http://disfruta.net:80/live/user23/user23/372.m3u8
-#EXTINF:0 tvg-id="TelefeHD.ar" group-title="Channels",TELEFE HD
-http://disfruta.net:80/live/user23/user23/375.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEMAX HD
-http://disfruta.net:80/live/user23/user23/376.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELESUR HD
-http://disfruta.net:80/live/user23/user23/377.m3u8
-#EXTINF:0 tvg-id="TNHD.ar" group-title="Channels",TN HD
-http://disfruta.net:80/live/user23/user23/378.m3u8
-#EXTINF:0 tvg-id="TVPublicaHD.ar" group-title="Channels",TV PUBLICA HD
-http://disfruta.net:80/live/user23/user23/381.m3u8
-#EXTINF:0 tvg-id="TV5.ca" group-title="Channels",TV5 HD
-http://disfruta.net:80/live/user23/user23/382.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVE HD
-http://disfruta.net:80/live/user23/user23/383.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",VOLVER HD
-http://disfruta.net:80/live/user23/user23/384.m3u8
-#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="Channels",CINECANAL HD
-http://disfruta.net:80/live/user23/user23/2205.m3u8
-#EXTINF:0 tvg-id="CineMAX.ro" group-title="Channels",CINEMAX HD
-http://disfruta.net:80/live/user23/user23/2211.m3u8
-#EXTINF:0 tvg-id="FoxPremiumActionHD.ar" group-title="Channels",FOX PREMIUM ACTION HD
-http://disfruta.net:80/live/user23/user23/2248.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX PREMIUM CINEMA HD
-http://disfruta.net:80/live/user23/user23/2254.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX PREMIUM CLASSICS HD
-http://disfruta.net:80/live/user23/user23/2256.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX PREMIUM COMEDY HD
-http://disfruta.net:80/live/user23/user23/2246.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX PREMIUM FAMILY HD
-http://disfruta.net:80/live/user23/user23/2244.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX PREMIUM FAMILY OESTE HD
-http://disfruta.net:80/live/user23/user23/2245.m3u8
-#EXTINF:0 tvg-id="FoxPremiumMoviesHD.ar" group-title="Channels",FOX PREMIUM MOVIES HD
-http://disfruta.net:80/live/user23/user23/2251.m3u8
-#EXTINF:0 tvg-id="FoxPremiumSeriesHD.ar" group-title="Channels",FOX PREMIUM SERIES HD
-http://disfruta.net:80/live/user23/user23/2240.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX PREMIUM SERIES OESTE HD
-http://disfruta.net:80/live/user23/user23/2241.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FXM HD
-http://disfruta.net:80/live/user23/user23/2202.m3u8
-#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 HD
-http://disfruta.net:80/live/user23/user23/2224.m3u8
-#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Channels",HBO FAMILY HD
-http://disfruta.net:80/live/user23/user23/2227.m3u8
-#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
-http://disfruta.net:80/live/user23/user23/2221.m3u8
-#EXTINF:0 tvg-id="Maxhd.br" group-title="Channels",HBO Mundi HD
-http://disfruta.net:80/live/user23/user23/2238.m3u8
-#EXTINF:0 tvg-id="Hboplushd.br" group-title="Channels",HBO PLUS HD
-http://disfruta.net:80/live/user23/user23/2230.m3u8
-#EXTINF:0 tvg-id="HBOSignature.us" group-title="Channels",HBO SIGNATURE HD
-http://disfruta.net:80/live/user23/user23/2233.m3u8
-#EXTINF:0 tvg-id="Maxprimehd.br" group-title="Channels",HBO Xtreme HD
-http://disfruta.net:80/live/user23/user23/2235.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",I SAT HD
-http://disfruta.net:80/live/user23/user23/2219.m3u8
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",PARAMOUNT HD
-http://disfruta.net:80/live/user23/user23/2258.m3u8
-#EXTINF:0 tvg-id="SpaceHD.mx" group-title="Channels",SPACE HD
-http://disfruta.net:80/live/user23/user23/2216.m3u8
-#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Channels",STUDIO UNIVERSAL HD
-http://disfruta.net:80/live/user23/user23/2208.m3u8
-#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM HD
-http://disfruta.net:80/live/user23/user23/2200.m3u8
-#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT HD
-http://disfruta.net:80/live/user23/user23/2196.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",D1R3CTV SP0RTS HD
-http://disfruta.net:80/live/user23/user23/1059.m3u8
-#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",ESPN 2 HD
-http://disfruta.net:80/live/user23/user23/1084.m3u8
-#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Channels",ESPN 3 HD
-http://disfruta.net:80/live/user23/user23/1087.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN HD
-http://disfruta.net:80/live/user23/user23/1081.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Plus HD
-http://disfruta.net:80/live/user23/user23/1091.m3u8
-#EXTINF:0 tvg-id="FoxSport1.nl" group-title="Channels",Fox Sports 1 HD
-http://disfruta.net:80/live/user23/user23/1092.m3u8
-#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Channels",Fox Sports 2 HD
-http://disfruta.net:80/live/user23/user23/1094.m3u8
-#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Channels",Fox Sports 3 HD
-http://disfruta.net:80/live/user23/user23/1096.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports Premium HD
-http://disfruta.net:80/live/user23/user23/1098.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SPORTS HD
-http://disfruta.net:80/live/user23/user23/2795.m3u8
-#EXTINF:0 tvg-id="TyCSports.ar" group-title="Channels",TYC Sports HD
-http://disfruta.net:80/live/user23/user23/2797.m3u8
-#EXTINF:0 tvg-id="BabyTV.fr" group-title="Channels",BABY TV HD
-http://disfruta.net:80/live/user23/user23/2181.m3u8
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",BOOMERANG HD
-http://disfruta.net:80/live/user23/user23/2177.m3u8
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK HD
-http://disfruta.net:80/live/user23/user23/2151.m3u8
-#EXTINF:0 tvg-id="disneychannel.de" group-title="Channels",DISNEY HD
-http://disfruta.net:80/live/user23/user23/2162.m3u8
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",DISNEY JUNIOR HD
-http://disfruta.net:80/live/user23/user23/2165.m3u8
-#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Channels",DISNEY XD HD
-http://disfruta.net:80/live/user23/user23/2168.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATGEO KIDS HD
-http://disfruta.net:80/live/user23/user23/2171.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",NICK HD
-http://disfruta.net:80/live/user23/user23/2156.m3u8
-#EXTINF:0 tvg-id="NickJrHD.us" group-title="Channels",NICK JR HD
-http://disfruta.net:80/live/user23/user23/2159.m3u8
-#EXTINF:0 tvg-id="Tooncast.ar" group-title="Channels",TOONCAST HD
-http://disfruta.net:80/live/user23/user23/2182.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZOOMOO HD
-http://disfruta.net:80/live/user23/user23/2173.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN EN ESPAÑOL HD
-http://disfruta.net:80/live/user23/user23/2354.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN Internacional HD
-http://disfruta.net:80/live/user23/user23/2355.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",EUROPA HD
-http://disfruta.net:80/live/user23/user23/2370.m3u8
-#EXTINF:0 tvg-id="FilmyArtsHD.cl" group-title="Channels",FILM & ARTS HD
-http://disfruta.net:80/live/user23/user23/2372.m3u8
-#EXTINF:0 tvg-id="FOXNews.uk" group-title="Channels",FOX NEWS HD
-http://disfruta.net:80/live/user23/user23/2360.m3u8
-#EXTINF:0 tvg-id="history2-rus" group-title="Channels",H2 HD
-http://disfruta.net:80/live/user23/user23/2389.m3u8
-#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",HISTORY HD
-http://disfruta.net:80/live/user23/user23/2387.m3u8
-#EXTINF:0 tvg-id="wild-hd" group-title="Channels",NAT GEO WILD HD
-http://disfruta.net:80/live/user23/user23/2394.m3u8
-#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",NATIONAL GEOGRAPHIC HD
-http://disfruta.net:80/live/user23/user23/2391.m3u8
-#EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E HD
-http://disfruta.net:80/live/user23/user23/2078.m3u8
-#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",AMC HD
-http://disfruta.net:80/live/user23/user23/2084.m3u8
-#EXTINF:0 tvg-id="AXN.it" group-title="Channels",AXN HD
-http://disfruta.net:80/live/user23/user23/2081.m3u8
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",Comedy Central HD
-http://disfruta.net:80/live/user23/user23/2092.m3u8
-#EXTINF:0 tvg-id="E!.pl" group-title="Channels",E! Entertainment HD
-http://disfruta.net:80/live/user23/user23/2110.m3u8
-#EXTINF:0 tvg-id="ElGourmetHD.cl" group-title="Channels",El Gourmet HD
-http://disfruta.net:80/live/user23/user23/2127.m3u8
-#EXTINF:0 tvg-id="fox-hd" group-title="Channels",FOX HD
-http://disfruta.net:80/live/user23/user23/2069.m3u8
-#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",Fox Life HD
-http://disfruta.net:80/live/user23/user23/2086.m3u8
-#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX HD
-http://disfruta.net:80/live/user23/user23/2097.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HTV HD
-http://disfruta.net:80/live/user23/user23/2147.m3u8
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",Lifetime HD
-http://disfruta.net:80/live/user23/user23/2118.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mas Chic HD
-http://disfruta.net:80/live/user23/user23/2123.m3u8
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV HD
-http://disfruta.net:80/live/user23/user23/2134.m3u8
-#EXTINF:0 tvg-id="mtv-hits" group-title="Channels",MTV Hits HD
-http://disfruta.net:80/live/user23/user23/2136.m3u8
-#EXTINF:0 tvg-id="set" group-title="Channels",Sony Channel HD
-http://disfruta.net:80/live/user23/user23/2072.m3u8
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SYFY HD
-http://disfruta.net:80/live/user23/user23/2102.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TBS VERY FUNNY HD
-http://disfruta.net:80/live/user23/user23/2094.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Telemundo Internacional HD
-http://disfruta.net:80/live/user23/user23/2125.m3u8
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Channels",TNT Series HD
-http://disfruta.net:80/live/user23/user23/2089.m3u8
-#EXTINF:0 tvg-id="TruTV.uk" group-title="Channels",Tru TV HD
-http://disfruta.net:80/live/user23/user23/2105.m3u8
-#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL HD
-http://disfruta.net:80/live/user23/user23/2099.m3u8
-#EXTINF:0 tvg-id="VH1UK.uk" group-title="Channels",VH1 HD
-http://disfruta.net:80/live/user23/user23/2141.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",VH1 MEGAHITS HD
-http://disfruta.net:80/live/user23/user23/2144.m3u8
-#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="Channels",Warner Channel HD
-http://disfruta.net:80/live/user23/user23/2075.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" ,Canal TC
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlzkikva5G8QeSwExCvfx0KY)/dm/3/x7wijay/s/live-0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" ,Canal TC (HD)
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlzkikva5G8QeSwExCvfx0KY)/dm/3/x7wijay/s/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" ,Nick 
+https://espare.tk/live/nick_lat.m3u8?token=a6wpJ2XYsMoB1NoboXMOLw&expires=160619420
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" ,Teleamazonas  
+https://playback.akamaized.net/streams/1359588_4428723_lsiucfcz5w4gj0sqhdf_1/media/1359588_4428723_lsiucfcz5w4gj0sqhdf_1@2756000p.m3u8?dw=14400&ts=1606172400&hdnts=exp=1606346534~acl=/streams/1359588_4428723_lsiucfcz5w4gj0sqhdf_1/media*~hmac=3d9a2360e8fd9a1997f03fb034ff59580b1fe27ab92cb3ebf4cb45ad4140ef6c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" ,OromarTV
+http://190.52.205.146/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" ,RTS 
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b898000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA2MjYwODM0LCJzZXNzaW9uIjoiMTkwLjIxNC4xMjMuMTA5Iiwid2hpdGVsaXN0IjpbIjI4MDA6NGYwOjUxZDo5ZTMwOjM4YmM6MmE1Mjo3ZjFiOmI4OTQiXX0sInNpZ25hdHVyZSI6ImIxZTE4NGU5ODg2MjY0MzBjZmIzZDI4Yzc0YTYxMjgyMGMxMjMyNDAifQ%3D%3D
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png/revision/latest/scale-to-width-down/340?cb=20190926042803&path-prefix=es" ,h&h
+#EXTINF:-1 channel-id="315" tvg-id="CINE - Comedy Central (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png"  channel-id="CINE - Comedy Central (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Comedy Central (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1446
+#EXTINF:-1 channel-id="316" tvg-id="CINE - De Pelicula (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png"  channel-id="CINE - De Pelicula (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - De Pelicula (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1448
+#EXTINF:-1 channel-id="330" tvg-id="CINE - Fox (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-uB9WcVHoil0/XatMC2WaDWI/AAAAAAAAAcg/60gxjXoz1jMn2WRICr7_C1Ybqeq2dOgDwCLcBGAsYHQ/s200/9.png"  channel-id="CINE - Fox (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26758
+#EXTINF:-1 channel-id="335" tvg-id="CINE - Fox Premium Action (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-uNTrgaTVx8s/XaokWzZ50-I/AAAAAAAAAVk/CfjRcLTCspYo5uGCrtLeiFO-4RWONNJIgCLcBGAsYHQ/s200/10.png"  channel-id="CINE - Fox Premium Action (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Action (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26741
+#EXTINF:-1 channel-id="332" tvg-id="CINE - Fox Life (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-HDQ1PcJh17c/Xbf2EwVOBuI/AAAAAAAAAuc/AE1Vq7LWHFs6k6vN_wTHZ5j8DAkxhiCgQCLcBGAsYHQ/s200/59.png"  channel-id="CINE - Fox Life (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Life (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26751
+#EXTINF:-1 channel-id="339" tvg-id="CINE - Fox Premium Classics (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-YsDtzfioWlQ/XaokXbvRwGI/AAAAAAAAAVo/PhePwnC2PoQx_m1lSmraBx_4G-ZxXp42ACLcBGAsYHQ/s200/12.png"  channel-id="CINE - Fox Premium Classics (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Classics (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26739
+#EXTINF:-1 channel-id="337" tvg-id="CINE - Fox Premium Cinema (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-rzBglSrdKOA/XaokYLI7qNI/AAAAAAAAAVw/PKC1GJ4xlnQBonef0JmdEB7gHpHSxV9TQCLcBGAsYHQ/s200/14.png"  channel-id="CINE - Fox Premium Cinema (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Cinema (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26740
+#EXTINF:-1 channel-id="339" tvg-id="CINE - Fox Premium Classics (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-YsDtzfioWlQ/XaokXbvRwGI/AAAAAAAAAVo/PhePwnC2PoQx_m1lSmraBx_4G-ZxXp42ACLcBGAsYHQ/s200/12.png"  channel-id="CINE - Fox Premium Classics (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Classics (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26739
+#EXTINF:-1 channel-id="341" tvg-id="CINE - Fox Premium Comedy (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-q3HxfnoX1jo/XaokXzVkNJI/AAAAAAAAAVs/fNYw412NMz8WGcSt6Dc8rZe0nVWpFcwegCLcBGAsYHQ/s200/13.png"  channel-id="CINE - Fox Premium Comedy (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Comedy (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1465
+#EXTINF:-1 channel-id="343" tvg-id="CINE - Fox Premium Family (M)(720)" tvg-logo="https://1.bp.blogspot.com/-qP7UWt4MhKE/XaokW4P6G2I/AAAAAAAAAVg/IFLc7i2fATUnS7pQWlFXuGPAiQg1UfgHACLcBGAsYHQ/s200/11.png"  channel-id="CINE - Fox Premium Family (M)(720)" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Family (M)(720)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1467
+#EXTINF:-1 channel-id="344" tvg-id="CINE - Fox Premium Family Este (M)" tvg-logo="https://1.bp.blogspot.com/-qP7UWt4MhKE/XaokW4P6G2I/AAAAAAAAAVg/IFLc7i2fATUnS7pQWlFXuGPAiQg1UfgHACLcBGAsYHQ/s200/11.png"  channel-id="CINE - Fox Premium Family Este (M)" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Family Este (M)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1468
+#EXTINF:-1 channel-id="347" tvg-id="CINE - Fox Premium Movies (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-S51cQoOPkyw/XaokYroPU9I/AAAAAAAAAV0/AvAYVXWiaPEQn9jkrwRGIh7kJdH_JSPKACLcBGAsYHQ/s200/15.png"  channel-id="CINE - Fox Premium Movies (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Movies (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26738
+#EXTINF:-1 channel-id="349" tvg-id="CINE - Fox Premium Series (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-r8Dh0m9YBxM/XaokYmo17UI/AAAAAAAAAV4/ilZgEaMm3voJFsZoOBsM8Hcz3xchRsYVACLcBGAsYHQ/s200/16.png"  channel-id="CINE - Fox Premium Series (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Series (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26737
+#EXTINF:-1 channel-id="352" tvg-id="CINE - FX (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png"  channel-id="CINE - FX (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - FX (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26746
+#EXTINF:-1 channel-id="356" tvg-id="CINE - Golden (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-Bh76OnxXsM0/XatOPMpUwGI/AAAAAAAAAdI/Q5opFPrspk8mExeK-MKi4lptcYKK8LlqwCLcBGAsYHQ/s200/47.png"  channel-id="CINE - Golden (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1472
+#EXTINF:-1 channel-id="357" tvg-id="CINE - Golden Edge (M)(720)" tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png"  channel-id="CINE - Golden Edge (M)(720)" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Edge (M)(720)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1478
+#EXTINF:-1 channel-id="359" tvg-id="CINE - Golden Plus (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png"  channel-id="CINE - Golden Plus (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Plus (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1477
+#EXTINF:-1 channel-id="360" tvg-id="CINE - Golden Premiere (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png"  channel-id="CINE - Golden Premiere (M)(1080)" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Premiere (M)(1080)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1474
+#EXTINF:-1 channel-id="364" tvg-id="CINE - HBO 1 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png"  channel-id="CINE - HBO 1 (e)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 1 (e)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1044
+#EXTINF:-1 channel-id="369" tvg-id="CINE - HBO Family (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png"  channel-id="CINE - HBO Family (e)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (e)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1035
+#EXTINF:-1 channel-id="371" tvg-id="CINE - HBO Mundi (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png"  channel-id="CINE - HBO Mundi (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Mundi (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/53238
+#EXTINF:-1 channel-id="384" tvg-id="CINE - Paramount Channel (M)(720)" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png"  channel-id="CINE - Paramount Channel (M)(720)" group-title="CANALES-ENTRETENIMIENTO",CINE - Paramount Channel (M)(720)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1485
+#EXTINF:-1 channel-id="388" tvg-id="CINE - Sony (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png"  channel-id="CINE - Sony (M)(1080)" group-title="CANALES-ENTRETENIMIENTO",CINE - Sony (M)(1080)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26910
+#EXTINF:-1 channel-id="390" tvg-id="CINE - Sony Channel (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png"  channel-id="CINE - Sony Channel (M)(720)" group-title="CANALES-ENTRETENIMIENTO",CINE - Sony Channel (M)(720)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1487
+#EXTINF:-1 channel-id="392" tvg-id="CINE - Space (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png"  channel-id="CINE - Space (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Space (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26759
+#EXTINF:-1 channel-id="399" tvg-id="CINE - Studio Universal (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png"  channel-id="CINE - Studio Universal (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Studio Universal (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26742
+#EXTINF:-1 channel-id="402" tvg-id="CINE - TBS (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png"  channel-id="CINE - TBS (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - TBS (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26750
+#EXTINF:-1 channel-id="404" tvg-id="CINE - TCM (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-I0it6XRRNxo/XdtVtXF2xPI/AAAAAAAAA30/Cb3ZdzakgygMU2_98viDf2CFqek_sQRTACLcBGAsYHQ/s200/24.png"  channel-id="CINE - TCM (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - TCM (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26756
+#EXTINF:-1 channel-id="407" tvg-id="CINE - TNT (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png"  channel-id="CINE - TNT (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26763
+#EXTINF:-1 channel-id="410" tvg-id="CINE - Tnt Series (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png"  channel-id="CINE - Tnt Series (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Tnt Series (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26762
+#EXTINF:-1 channel-id="412" tvg-id="CINE - Universal Channel (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png"  channel-id="CINE - Universal Channel (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Channel (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1493
+#EXTINF:-1 channel-id="414" tvg-id="CINE - Warner Channel (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png"  channel-id="CINE - Warner Channel (M)(SD)" group-title="CANALES-ENTRETENIMIENTO",CINE - Warner Channel (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1516
+#EXTINF:-1 channel-id="561" tvg-id="INF-Discovery Kids (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png"  channel-id="INF-Discovery Kids (M)(SD)" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26881
+#EXTINF:-1 channel-id="562" tvg-id="INF-Disney Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-jC_71uPSavo/XbCJ81p6qLI/AAAAAAAAAnY/Exgk_229xPQY-vQB55oAWD9a9gO5Ep-sACLcBGAsYHQ/s200/6.png"  channel-id="INF-Disney Channel (M)(1080)" group-title="CANALES-INFANTILES",INF-Disney Channel (M)(1080)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1377
+#EXTINF:-1 channel-id="576" tvg-id="INF-Nick JR (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png"  channel-id="INF-Nick JR (M)(SD)" group-title="CANALES-INFANTILES",INF-Nick JR (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26882
+#EXTINF:-1 channel-id="579" tvg-id="INF-Nicktoons (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png"  channel-id="INF-Nicktoons (M)(SD)" group-title="CANALES-INFANTILES",INF-Nicktoons (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1395
+#EXTINF:-1 channel-id="833" tvg-id="ECU-Gol TV Ecuador (M)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png"  channel-id="ECU-Gol TV Ecuador (M)" group-title="LATINOS-ECUADOR",ECU-Gol TV Ecuador (M)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/22153
+#EXTINF:-1 channel-id="834" tvg-id="ECU-Canal Del Futbol (PM)(SD)" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png"  channel-id="ECU-Canal Del Futbol (PM)(SD)" group-title="LATINOS-ECUADOR",ECU-Canal Del Futbol (PM)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/65388
+#EXTINF:-1 channel-id="829" tvg-id="ECU-Directv Sports (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png"  channel-id="ECU-Directv Sports (TV)(720)" group-title="LATINOS-ECUADOR",ECU-Directv Sports (TV)(720)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/54236
+#EXTINF:-1 channel-id="830" tvg-id="ECU-Gol Tv (e)(720)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png"  channel-id="ECU-Gol Tv (e)(720)" group-title="LATINOS-ECUADOR",ECU-Gol Tv (e)(720)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1098
+#EXTINF:-1 channel-id="1088" tvg-id="ECU-TC Television Costa (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png"  channel-id="ECU-TC Television Costa (e)(SD)" group-title="LATINOS-ECUADOR",ECU-TC Television Costa (e)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/1108
+#EXTINF:-1 channel-id="1096" tvg-id="ECU-Teleamazona Costa (M)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png"  channel-id="ECU-Teleamazona Costa (M)" group-title="LATINOS-ECUADOR",ECU-Teleamazona Costa (M)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/22157
+#EXTINF:-1 channel-id="1228" tvg-id="MEX-Tru TV (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-9w16hYV4mk8/Xauke2zKBSI/AAAAAAAAAgA/vylcIByzz6kPcin3nnt4EjN1I_E9DI_SQCLcBGAsYHQ/s200/18.png"  channel-id="MEX-Tru TV (M)(SD)" group-title="LATINOS-MEXICO",MEX-Tru TV (M)(SD)
+http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/26690
